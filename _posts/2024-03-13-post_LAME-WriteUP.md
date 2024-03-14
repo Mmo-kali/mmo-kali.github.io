@@ -7,7 +7,6 @@ published: true
 =================
 
   
-
 HTB
 ===
 
@@ -23,7 +22,6 @@ Machine Write-Up/Report
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-IP: 10.129.249.9
 
 HTB link: _[https://app.hackthebox.com/machines/Lame](https://app.hackthebox.com/machines/Lame)_ [\\](https://app.hackthebox.com/machines/Lame)
 
@@ -33,6 +31,8 @@ HTB link: _[https://app.hackthebox.com/machines/Lame](https://app.hackthebox.com
 
 ![Test1](lame/images/1-1.png)
 ![Test2](https://github.com/Mmo-kali/mmo-kali.github.io/blob/main/_posts/lame/images/1-1.png)
+<img src="lame/images/1-1.png" alt="Alt text"/>
+
 
 
 RECON
@@ -219,7 +219,7 @@ with remote access and can move accross the machine to collect the keys...
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ip: 10.129.219.127
+
 
 ### **metasploit ->**
 
