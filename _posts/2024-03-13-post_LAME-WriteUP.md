@@ -31,7 +31,7 @@ HTB link: _[https://app.hackthebox.com/machines/Lame](https://app.hackthebox.com
 
 \-→ **MICHAEL(Nolkm)**
 
-![images/1-1.png](lame/images/1-1.png)
+![images/1-1.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/1-1.png)
 
 RECON
 =====
