@@ -1,3 +1,8 @@
+---
+title: How Python Was Made? 
+published: true
+---
+
 # How Python Was Made
 
 Guido Van Rossum was born in the Netherlands in 1956. After receiving an electronics kit for his 10th birthday, he began constructing circuits as a hobby. From a young age, he was fascinated by mathematics and technology. He would later attend the University of Amsterdam, earning a Master’s in Mathematics and Computer Science.
