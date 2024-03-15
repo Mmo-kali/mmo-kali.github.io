@@ -79,7 +79,7 @@ These 2 ports are found to be open on the host system i wll connect with smb cli
     ------------------------------------------------------------------------
     
 
-![images/3-1.png](lame/images/3-1.png)
+![images/3-1.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/3-1.png)
 
 *   NO log File
 
