@@ -94,7 +94,7 @@ These 2 ports are found to be open on the host system i wll connect with smb cli
 
 *   _Shares Found:_
 
-![images/3-2.png](lame/images/3-2.png)
+![images/3-2.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/3-2.png)
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -129,7 +129,7 @@ _searching for exploit on sftp_
 
 Found matching exploit with the version of SFTP running
 
-![images/4-1.png](lame/images/4-1.png)
+![images/4-1.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/4-1.png)
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -172,13 +172,13 @@ we found a exploit that is in metasplot so we will be using that
 
 *   → _→ MSFconsole commands_
 
-→ ![images/6-1.png](lame/images/6-1.png)
+→ ![images/6-1.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/6-1.png)
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some type of issue on the first run occured i will try again :
 
-![images/6-2.png](lame/images/6-2.png)
+![images/6-2.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/6-2.png)
 
 This seems to be a consisten issue, so this exploit wont work...
 
@@ -228,21 +228,21 @@ with remote access and can move accross the machine to collect the keys...
 
 **
 
-![images/8-1.png](lame/images/8-1.png)
+![images/8-1.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/8-1.png)
 
 ### _Now i need to get user flag so lets look at the directory -> /home_
 
-![images/8-2.png](lame/images/8-2.png)
+![images/8-2.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/8-2.png)
 
 user directory found 'makis'
 
 **USERFLAG.txt**
 ----------------
 
-![images/8-3.png](lame/images/8-3.png)
+![images/8-3.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/8-3.png)
 
 Now to get root flag we need go into /root directory....
 
-![images/8-4.png](lame/images/8-4.png)
+![images/8-4.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/8-4.png)
 
-Completed: ![images/8-5.png](lame/images/8-5.png)
+Completed: ![images/8-5.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/8-5.png)
