@@ -3,9 +3,12 @@ layout: page
 title: About
 ---
 
-# Welcome to mm0's Cybersecurity Insights
 
+# Welcome to mm0's Info-Sec Page 
+mailto: mm0.kali@proton.me
 ## Profile
+
+
 
 An avid explorer in the cybersecurity realm, mm0 is currently immersed in academic pursuits while simultaneously contributing to innovative projects in applied AI. With a strong foundation in cybersecurity principles and a passion for continuous learning, mm0 is on the path to becoming a significant contributor to the field.
 
