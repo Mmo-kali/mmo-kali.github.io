@@ -5,7 +5,7 @@ title: About
 
 
 # Welcome to mm0's Info-Sec Page 
-mailto: mm0.kali@proton.me
+# mailto: mm0.kali@proton.me
 ## Profile
 
 
