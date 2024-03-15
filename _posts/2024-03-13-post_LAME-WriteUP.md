@@ -45,7 +45,7 @@ scanning:
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![[images/2-2.png](lame/images/2-2.png)](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/2-2.png)
+![lame/images/2-2.png](https://github.com/Mmo-kali/mmo-kali.github.io/raw/main/_posts/lame/images/2-2.png)
 
 \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
