@@ -36,7 +36,7 @@ Sheridan College 2022 – 2026 | Oakville, Canada
 ### Centre for Applied AI
 
 **Student Researcher Internship**  
-01/2024 - Present | Oakville, Canada  
+01/2024 - 09/2024 | Oakville, Canada  
 *Centre for Applied AI (formerly known as the Centre for Mobile Innovation)*
 - Collaborated with fellow students on the research project called: "Clinic of the Future" in partnership with Cloud DX.
 - Conducted research on Computer Vision with machine Learning algorithms to implement pose estimation for the tracking of body movements and perform body tracking.
