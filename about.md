@@ -8,6 +8,7 @@ layout: default
 **Location:** Toronto, Canada  
 **Phone:** 416-433-5011  
 **Linkedin:** [Michael N.](https://www.linkedin.com/in/michael-n12345/)
+**Blogger:** [MichaelNolk-Cybersecurity-Blog](https://michael-kali.blogspot.com/)
 
 ## Profile
 
