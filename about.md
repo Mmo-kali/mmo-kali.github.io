@@ -42,7 +42,7 @@ Sheridan College 2022 – 2026 | Oakville, Canada
 - Conducted research on Computer Vision with machine Learning algorithms to implement pose estimation for the tracking of body movements and perform body tracking.
 - Collaborated on face tracking with machine learning using the openface package in Python to conduct research on identifying pain based on facial expressions.
 
-### CTF Developer 2024 || Club Executive (Volunteering 2022 ~ Present)
+### CTF Developer Lead 2025 || Club Executive (Volunteering 2022 ~ Present)
 
 **ISSessions Club with over 1000 members**  
 - As a CTF Developer and Club Executive in 2024, I had the unique opportunity to craft diverse CTF challenges alongside a talented team for a competition backed by sponsors like Bell, KPMG, Trend Micro, Air Canada, and more.
